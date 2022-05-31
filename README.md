@@ -6,4 +6,4 @@
 - 📫 How to reach me: [Instagram - @fuad_abd_u](https://www.instagram.com/fuad_abd_u/)
 
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=fuadabdu123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![enter image description here](https://github-readme-stats.vercel.app/api?username=fuadabdu123&&show_icons=true&title_color=&icon_color=ffd000&text_color=daf7dc&bg_color=010101)
